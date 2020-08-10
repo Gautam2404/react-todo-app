@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css","App.css"],"names":[],"mappings":"AAAA,KACI,kBAAmB,CACnB,wBACJ,CCHA,WACI,4BACJ","file":"main.e1a4f92d.chunk.css","sourcesContent":["body {\n    font-family: \"Lato\";\n    background-color: #e9e9e9;\n}",".completed{\n    text-decoration: line-through;\n}"]}
